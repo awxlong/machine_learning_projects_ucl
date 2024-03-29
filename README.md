@@ -23,3 +23,4 @@ The files included are:
 - biomedical_imaging/
   - diffussion_mri and Figures-dmri.pdf
     - report with associated figures on fitting linear models to brain diffussion MRI data yielding insight into the brain's structure
+    - for more information on methods, please watch https://www.youtube.com/watch?v=VyZfhkyKFNQ
