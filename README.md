@@ -24,3 +24,9 @@ The files included are:
   - diffussion_mri and Figures-dmri.pdf
     - report with associated figures on fitting linear models to brain diffussion MRI data yielding insight into the brain's structure
     - for more information on methods, please watch https://www.youtube.com/watch?v=VyZfhkyKFNQ
+  - biomed_imaging_modelling_connectome.pdf and Presentation -CW3 Brain Connectivity.pdf
+    - report and associated slides exploring simple linear functions modelling the brain's structural with functional connectome (which is essentially pairwise voxel values between cortical regions of the brain in each respective MRI modality) 
+
+- msc_mcmc/
+  - mcmc_multispecies_coalescent.pdf: written report on using MCMC for estimating common ancestor population size and speciation time for the human-chimpanzee modelled with the multispecies coalescent model
+  - mcmc-msc-vectorized-submit.ipynb: code implementation of a vectorized Markov Chain Monte Carlo used for parameter estimation for the multispecies coalescent model for two species (human and chimpanzee)
