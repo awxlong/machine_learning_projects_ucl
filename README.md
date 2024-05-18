@@ -25,7 +25,7 @@ The files included are:
     - report with associated figures on fitting linear models to brain diffussion MRI data yielding insight into the brain's structure
     - for more information on methods, please watch https://www.youtube.com/watch?v=VyZfhkyKFNQ
   - biomed_imaging_modelling_connectome.pdf and Presentation -CW3 Brain Connectivity.pdf
-    - report and associated slides exploring simple linear functions modelling the brain's structural with functional connectome (which is essentially pairwise voxel values between cortical regions of the brain in each respective MRI modality) 
+    - report and associated slides exploring simple linear functions modelling the brain's structural with functional connectome (which are essentially pairwise correlated voxel values between cortical regions of the brain in each respective MRI modality) 
 
 - msc_mcmc/
   - mcmc_multispecies_coalescent.pdf: written report on using MCMC for estimating common ancestor population size and speciation time for the human-chimpanzee modelled with the multispecies coalescent model
